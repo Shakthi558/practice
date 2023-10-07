@@ -1,1 +1,0 @@
-console.log(Math.trunc(-2.456))
